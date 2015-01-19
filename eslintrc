@@ -29,6 +29,7 @@
         "no-spaced-func": 2,
         "no-trailing-spaces": 2,
         "no-underscore-dangle": 0,
+        "no-var": 2,
         "no-void": 2,
         "operator-assignment": [2, "always"],
         "padded-blocks": 0,
