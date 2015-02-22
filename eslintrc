@@ -29,6 +29,7 @@
         "no-self-compare": 2,
         "no-space-before-semi": 2,
         "no-spaced-func": 2,
+        "no-throw-literal": 2,
         "no-trailing-spaces": 2,
         "no-underscore-dangle": 0,
         "no-var": 2,
