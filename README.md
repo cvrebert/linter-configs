@@ -7,4 +7,4 @@ These configurations were current as of:
 | ------ | --------- |
 | JSHint | v2.6.3    |
 | ESLint | v0.17.1   |
-| JSCS   | v1.11.0   |
+| JSCS   | v1.11.3   |
