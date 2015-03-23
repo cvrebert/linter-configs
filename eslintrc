@@ -2,6 +2,9 @@
     "env": {
         "es6": true
     },
+    "ecmaFeatures": {
+        "modules": true
+    },
     "rules": {
         "block-scoped-var": 2,
         "brace-style": [2, "stroustrup"],
