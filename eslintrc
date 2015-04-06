@@ -53,7 +53,7 @@
         "semi-spacing": [2, {"before": false, "after": true}],
         "space-after-keywords": [2, "always", {"checkFunctionKeyword": true}],
         "space-before-blocks": [2, "always"],
-        "space-before-function-parentheses": [2, {"anonymous": "always", "named": "never"}],
+        "space-before-function-paren": [2, {"anonymous": "always", "named": "never"}],
         "space-in-brackets": [2, "never"],
         "space-in-parens": [2, "never"],
         "space-return-throw-case": 2,
