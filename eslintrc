@@ -46,6 +46,7 @@
         "no-void": 2,
         "one-var": [2, "never"],
         "operator-assignment": [2, "always"],
+        "operator-linebreak": [2, "after"],
         "padded-blocks": 0,
         "quotes": 0,
         "radix": 2,
