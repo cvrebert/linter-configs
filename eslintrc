@@ -45,6 +45,7 @@
         "no-var": 2,
         "no-void": 2,
         "one-var": [2, "never"],
+        "object-shorthand": [2, "always"],
         "operator-assignment": [2, "always"],
         "operator-linebreak": [2, "after"],
         "padded-blocks": 0,
