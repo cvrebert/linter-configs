@@ -2,6 +2,7 @@
   "bitwise": true,
   "curly": true,
   "eqeqeq": true,
+  "esnext": true,
   "forin": true,
   "futurehostile": true,
   "immed": true,
@@ -13,5 +14,6 @@
   "plusplus": false,
   "predef": ["exports"],
   "sub": true,
-  "undef": true
+  "undef": true,
+  "varstmt": true
 }
