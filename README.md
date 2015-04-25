@@ -5,6 +5,6 @@ These configurations were current as of:
 
 | Linter | Version   |
 | ------ | --------- |
-| JSHint | v2.6.3    |
+| JSHint | v2.7.0    |
 | ESLint | v0.20.0   |
 | JSCS   | v1.12.0   |
