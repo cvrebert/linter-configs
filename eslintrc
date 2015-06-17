@@ -53,6 +53,7 @@
         "operator-assignment": [2, "always"],
         "operator-linebreak": [2, "after"],
         "padded-blocks": 0,
+        "prefer-const": 2,
         "quotes": 0,
         "radix": 2,
         "semi": [2, "always"],
