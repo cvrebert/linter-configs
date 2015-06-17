@@ -25,6 +25,7 @@
   "requireSpacesInForStatement": true,
   "validateIndentation": 4,
   "validateLineBreaks": "LF",
+  "validateNewlineAfterArrayElements": true,
   "validateParameterSeparator": ", ",
   "plugins": [
     "jscs-jsdoc"
