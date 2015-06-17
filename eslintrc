@@ -12,6 +12,7 @@
         "comma-dangle": [2, "always-multiline"],
         "comma-spacing": [2, {"before": false, "after": true}],
         "comma-style": [2, "last"],
+        "computed-property-spacing": [2, "never"],
         "consistent-this": [2, "self"],
         "curly": 2,
         "dot-location": [2, "property"]
