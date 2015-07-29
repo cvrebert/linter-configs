@@ -15,7 +15,7 @@
         "computed-property-spacing": [2, "never"],
         "consistent-this": [2, "self"],
         "curly": 2,
-        "dot-location": [2, "property"]
+        "dot-location": [2, "property"],
         "eol-last": 2,
         "eqeqeq": 2,
         "key-spacing": [2, {"beforeColon": false, "afterColon": true}],
