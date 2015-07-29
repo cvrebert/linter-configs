@@ -6,6 +6,7 @@
   "disallowMultipleSpaces": true,
   "disallowMultipleVarDecl": true,
   "disallowSpaceAfterPrefixUnaryOperators": ["++", "--", "+", "-", "~", "!"],
+  "disallowSpaceBeforeComma": true,
   "disallowSpaceBeforePostfixUnaryOperators": ["++", "--"],
   "disallowSpacesInCallExpression": true,
   "disallowSpacesInsideBrackets": true,
