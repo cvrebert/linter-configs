@@ -8,6 +8,7 @@
   "disallowSpaceAfterPrefixUnaryOperators": ["++", "--", "+", "-", "~", "!"],
   "disallowSpaceBeforeComma": true,
   "disallowSpaceBeforePostfixUnaryOperators": ["++", "--"],
+  "disallowSpaceBeforeSemicolon": true,
   "disallowSpacesInCallExpression": true,
   "disallowSpacesInsideBrackets": true,
   "disallowTrailingWhitespace": true,
