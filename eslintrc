@@ -7,6 +7,7 @@
     },
     "rules": {
         "array-bracket-spacing": [2, "never"],
+        "arrow-parens": 2,
         "arrow-spacing": [2, {"before": true, "after": true}],
         "block-scoped-var": 2,
         "brace-style": [2, "stroustrup"],
