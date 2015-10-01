@@ -27,6 +27,7 @@
   "requireSpacesInConditionalExpression": true,
   "requireSpacesInFunctionExpression": { "beforeOpeningCurlyBrace": true },
   "requireSpacesInForStatement": true,
+  "requireSpread": true,
   "validateIndentation": 4,
   "validateLineBreaks": "LF",
   "validateNewlineAfterArrayElements": true,
