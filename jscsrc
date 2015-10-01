@@ -17,6 +17,7 @@
   "requireCommaBeforeLineBreak": true,
   "requireCurlyBraces": ["if", "else", "for", "while", "do", "try", "catch", "case", "default"],
   "requireLineFeedAtFileEnd": true,
+  "requireNumericLiterals": true,
   "requireOperatorBeforeLineBreak": ["+", "-", "/", "*", "=", "==", "===", "!=", "!==", ">", "<", ">=", "<="],
   "requireParenthesesAroundIIFE": true,
   "requireSemicolons": true,
