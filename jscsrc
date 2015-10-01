@@ -27,16 +27,5 @@
   "validateIndentation": 4,
   "validateLineBreaks": "LF",
   "validateNewlineAfterArrayElements": true,
-  "validateParameterSeparator": ", ",
-  "plugins": [
-    "jscs-jsdoc"
-  ],
-  "jsDoc": {
-    "checkAnnotations": {
-      "preset": "jsdoc3"
-    },
-    "checkParamNames": true,
-    "checkRedundantParams": true,
-    "requireParamTypes": true
-  }
+  "validateParameterSeparator": ", "
 }
