@@ -10,6 +10,7 @@
   "disallowSpaceBeforeSemicolon": true,
   "disallowSpacesInCallExpression": true,
   "disallowSpacesInsideBrackets": true,
+  "disallowTabs": true,
   "disallowTrailingWhitespace": true,
   "requireCapitalizedConstructors": true,
   "requireCommaBeforeLineBreak": true,
