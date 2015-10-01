@@ -69,6 +69,7 @@
         "quote-props": [2, "as-needed", {"keywords": true}],
         "quotes": 0,
         "radix": 2,
+        "require-jsdoc": 2,
         "semi": [2, "always"],
         "semi-spacing": [2, {"before": false, "after": true}],
         "space-after-keywords": [2, "always"],
