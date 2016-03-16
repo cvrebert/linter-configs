@@ -59,6 +59,7 @@
         "no-param-reassign": 0,
         "no-process-env": 2,
         "no-restricted-syntax": [2, "WithStatement"],
+        "no-self-assign": 2,
         "no-self-compare": 2,
         "no-spaced-func": 2,
         "no-this-before-super": 2,
