@@ -75,6 +75,7 @@
         "operator-linebreak": [2, "after"],
         "padded-blocks": 0,
         "prefer-const": 2,
+        "prefer-rest-params": 2,
         "prefer-spread": 2,
         "quote-props": [2, "as-needed", {"keywords": true}],
         "quotes": 0,
