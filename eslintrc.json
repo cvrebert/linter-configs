@@ -45,6 +45,7 @@
         "no-empty-pattern": 2,
         "no-eval": 2,
         "no-floating-decimal": 2,
+        "no-implicit-globals": 2,
         "no-implied-eval": 2,
         "no-inline-comments": 0,
         "no-irregular-whitespace": 2,
