@@ -12,6 +12,7 @@
   "disallowSpacesInsideBrackets": true,
   "disallowTabs": true,
   "disallowTrailingWhitespace": true,
+  "disallowVar": true,
   "esnext": true,
   "requireCapitalizedConstructors": true,
   "requireCommaBeforeLineBreak": true,
