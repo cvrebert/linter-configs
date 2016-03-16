@@ -42,6 +42,7 @@
         "no-implied-eval": 2,
         "no-inline-comments": 0,
         "no-irregular-whitespace": 2,
+        "no-magic-numbers": [2, {"ignoreArrayIndexes": true, "ignore": [-1, 0, 1, 2]}],
         "no-mixed-spaces-and-tabs": 2,
         "no-multi-spaces": 2,
         "no-multiple-empty-lines": 0,
