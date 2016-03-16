@@ -3,9 +3,12 @@
     "env": {
         "es6": true
     },
-    "ecmaFeatures": {
+    "parserOptions": {
+        "ecmaFeatures": {
+        },
+        "ecmaVersion": 6,
+        "sourceType": "module"
     },
-    "ecmaVersion": 6,
     "rules": {
         "array-bracket-spacing": [2, "never"],
         "arrow-parens": 2,
