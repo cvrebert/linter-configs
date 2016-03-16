@@ -36,6 +36,7 @@
         "no-array-constructor": 2,
         "no-bitwise": 2,
         "no-case-declarations": 2,
+        "no-confusing-arrow": 2,
         "no-const-assign": 2,
         "no-constant-condition": 0,
         "no-dupe-args": 2,
