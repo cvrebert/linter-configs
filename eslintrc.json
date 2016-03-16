@@ -54,6 +54,7 @@
         "no-multi-spaces": 2,
         "no-multiple-empty-lines": 0,
         "no-new-object": 2,
+        "no-new-symbol": 2,
         "no-param-reassign": 0,
         "no-process-env": 2,
         "no-restricted-syntax": [2, "WithStatement"],
